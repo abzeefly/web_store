@@ -13,9 +13,9 @@
                             {{product.description}}
                         </b-card-text>
                         <b-card-sub-title><strong>{{product.category.toUpperCase()}}</strong></b-card-sub-title>
-                        <b-card-text> 
+                        <!-- <b-card-text> 
                             <b-button href="#" variant="primary">Add to Cart  <b-icon icon="cart-plus"></b-icon></b-button>
-                        </b-card-text>
+                        </b-card-text> -->
                     </b-card-body>
                 </b-col>
             </b-row>
