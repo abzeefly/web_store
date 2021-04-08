@@ -2,14 +2,10 @@
   "name": "corplite-web-store",
   "version": "0.1.0",
   "private": true,
-  "postinstall": "npm run build",
-  "start": "node server.js",
   "scripts": {
     "serve": "vue-cli-service serve",
-    "start": "npm run dev",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint",
-    "heroku-postbuild": "npm install --only=dev --no-shrinkwrap && npm run build"
+    "lint": "vue-cli-service lint"
   },
   "dependencies": {
     "bootstrap-vue": "^2.21.2",
