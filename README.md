@@ -1,5 +1,8 @@
 # corplite-web-store
 
+## Checkout the website at 
+### https://corplite-web-store.herokuapp.com/
+
 ## Project setup
 ```
 npm install
